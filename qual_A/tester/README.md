@@ -1,7 +1,7 @@
 # ゲーマーXとモノス大会 テスター
 
 * これは
-[第4回 RCL日本橋ハーフマラソン 予選](https://atcoder.jp/contests/rcl-contest-2020-qual)
+[第4回 RECRUIT 日本橋ハーフマラソン 予選](https://atcoder.jp/contests/rcl-contest-2020-qual)
 の
 [A 問題 - ゲーマーXとモノス大会](https://atcoder.jp/contests/rcl-contest-2020-qual/tasks/rcl_contest_2020_qual_a)
 のテストケースジェネレータとジャッジのためのプログラムです。これらを用いることで、ローカル環境でプログラムのテストを行うことができます。

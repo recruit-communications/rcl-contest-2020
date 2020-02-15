@@ -1,7 +1,7 @@
 # イラストレーターXと不思議なペン テスター
 
 * これは
-[第4回 RCL日本橋ハーフマラソン 予選](https://atcoder.jp/contests/rcl-contest-2020-qual)
+[第4回 RECRUIT 日本橋ハーフマラソン 予選](https://atcoder.jp/contests/rcl-contest-2020-qual)
 の
 [B 問題 - イラストレーターXと不思議なペン](https://atcoder.jp/contests/rcl-contest-2020-qual/tasks/rcl_contest_2020_qual_b)
 のテストケースジェネレータとジャッジのためのプログラムです。これらを用いることで、ローカル環境でプログラムのテストを行うことができます。
